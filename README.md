@@ -1,6 +1,18 @@
 # Area11-BD-Theme
 🎶 A Theme for BetterDiscord for the fans of Area 11 ^_^ 🎶
 
+![Main image](https://puu.sh/uceSY/bc0f733da5.png)
+![Badges and unread](https://puu.sh/uceYK/d1b1dcfeb5.png)
+
+Material Icons Pack:
+
+![Settings](https://puu.sh/ucfnV/e629ebdc80.png)
+
+![Edited Messages](https://puu.sh/ucfzG/658956889b.png)
+
+![Top Bar](https://puu.sh/ucfpW/629daef6b5.png)
+
+![Voice and Settings](https://puu.sh/ucfw2/b773c5fe47.png)
 
 
 # BetterDiscord.
