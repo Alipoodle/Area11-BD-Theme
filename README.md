@@ -1,5 +1,5 @@
 # How to install
-Go on to the theme, where it shows all the CSS. Then you could be able to click **RAW** and then you need to do *Save Page* or *Save As* and Save this into the Theme Folder on BetterDiscord which can be accessed from `%appdata%/BetterDiscord/Theme`
+Go into the [Theme folder](https://github.com/Alipoodle/Area11-BD-Theme/tree/master/Theme) and pick what theme you would like and Go on to the theme upon where it shows just the file. Then you could be able to click **RAW** *which is located at the top of the code on the right* and then you need to do *Save Page* or *Save As* and Save this into the Theme Folder on BetterDiscord which can be accessed from `%appdata%/BetterDiscord/Theme`
 # Area11-BD-Theme
 
 🎶 A Theme for BetterDiscord for the fans of Area 11 ^_^ 🎶
