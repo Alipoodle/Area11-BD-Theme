@@ -1,4 +1,7 @@
+# How to install
+Go on to the theme, where it shows all the CSS. Then you could be able to click **RAW** and then you need to do *Save Page* or *Save As* and Save this into the Theme Folder on BetterDiscord which can be accessed from `%appdata%/BetterDiscord/Theme`
 # Area11-BD-Theme
+
 🎶 A Theme for BetterDiscord for the fans of Area 11 ^_^ 🎶
 
 ![Main image](https://puu.sh/uceSY/bc0f733da5.png)
@@ -14,33 +17,31 @@ Material Icons Pack:
 
 ![Voice and Settings](https://puu.sh/ucfw2/b773c5fe47.png)
 
-
 # BetterDiscord.
 https://betterdiscord.net/
 
 BetterDiscord enhances Discord with several features.
 
- Emotes
-Twitch.tv Global and Subscriber Emotes.
+- Emotes - Twitch.tv Global and Subscriber Emotes.
 
 20,000+ FrankerFaceZ Emotes.
-
 8000+ BetterTTV Emotes.
 
- Custom CSS
+- Custom CSS
+
 Use custom CSS to customize the Discord client to your liking.
 
- Display Modes
-Minimal Mode for hiding all the clutter.
+- Display Modes
 
+Minimal Mode for hiding all the clutter.
 Voice Mode for hiding everything except voice chat.
 
- Plugins
-BetterDiscord comes with a builtin JavaScript plugin loader.
+- Plugins
 
+BetterDiscord comes with a builtin JavaScript plugin loader.
 Write your own or download plugins made by other people.
 
- Custom Themes
-BetterDiscord comes with a builtin CSS theme loader.
+- Custom Themes
 
+BetterDiscord comes with a builtin CSS theme loader.
 Write your own or download themes made by other people.
